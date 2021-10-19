@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+
+    <!-- Text View Strings and Button -->
+    <string name="monthlyHead">Monthly Payment</string>
+    <string name="calculatedPay">$0.00</string>
+    <string name="mortgageHead">Mortgage Principal Amount</string>
+    <string name="interestHead">Interest Rate</string>
+    <string name="yearsHead">Amortization Years</string>
+    <string name="calcButton">Calculate</string>
+
+    <!-- Edit View Strings (hints used for user inputs)-->
+    <string name="mortgageIn">Amount (Ex 10000)</string>
+    <string name="interestIn">Interest (Ex 2.1)</string>
+    <string name="yearsIn">Number of Years</string>
+
+</resources>
